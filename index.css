@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    flex-basis: content; 
+     direction: inherit; 
+    justify-content: center; 
+     align-items: center;
+     float: center;
+     display: block;
+    
+
+}
+
+body{
+    margin: 12px;
+    padding: 20px;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    flex-basis: auto;
+    flex-wrap: wrap;
+    color: black;
+    background-color: white;
+    background: white;
+}
